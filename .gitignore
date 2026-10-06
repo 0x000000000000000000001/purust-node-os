@@ -6,3 +6,5 @@
 /.psa*
 .purs*
 /.spago/
+.purmeta/
+.DS_Store
